@@ -1,7 +1,7 @@
 # RecipeDeluxe
 This platform enables users to freely explore recipes by leveraging the Edamam Recipe Search API. Users can enter any desired dish, and the platform will provide corresponding recipes. Additionally, there is a search-by-ingredients mode, allowing users to input the ingredients they have, and the platform will then search the Edamam Recipe database based on those ingredients.
 
-# Documentation for the Code
+# Documentation
 
 ## Purpose:
 The provided code is a Node.js module that interacts with an external recipe API to perform recipe searches based on user input. It fetches recipes either by a general search query or by a list of ingredients. The results are then displayed in a specified HTML template.
