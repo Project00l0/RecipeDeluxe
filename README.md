@@ -1,4 +1,5 @@
 # RecipeDeluxe
+This platform enables users to freely explore recipes by leveraging the Edamam Recipe Search API. Users can enter any desired dish, and the platform will provide corresponding recipes. Additionally, there is a search-by-ingredients mode, allowing users to input the ingredients they have, and the platform will then search the Edamam Recipe database based on those ingredients.
 
 # Documentation for the Code
 
