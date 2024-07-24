@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Satisfy&display=swap");
+e@import url("https://fonts.googleapis.com/css2?family=Satisfy&display=swap");
 *,
 *:before,
 *:after {
@@ -306,7 +306,7 @@
   position: absolute;
   transform: translate(-50%, -50%);
   left: 50%;
-  bottom: -62%;
+  bottom: -58%;
   height: 400px;
   width: 320px;
 }
